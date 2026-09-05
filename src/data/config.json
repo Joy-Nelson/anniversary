@@ -1,0 +1,20 @@
+{
+  "couple": {
+    "partner1": "Co-Rider",
+    "partner2": "Pillion",
+    "startDate": "2023-09-06",
+    "revealDate": "2026-09-06",
+    "yearsTag": "Three Years. One Extraordinary Journey."
+  },
+  "audio": {
+    "enableHeadphonesPrompt": true,
+    "defaultVolume": 0.8
+  },
+  "stats": {
+    "ridesCount": "Endless",
+    "teaStopsCount": "Countless",
+    "flightsCount": 2,
+    "motorcyclesCount": 1,
+    "daysCount": 1000
+  }
+}

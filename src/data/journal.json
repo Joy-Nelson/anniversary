@@ -1,0 +1,128 @@
+{
+  "passportNumber": "LOVE-2023-2026",
+  "passengerName": "Co-Rider & Pillion",
+  "stamps": [
+    {
+      "id": "st1",
+      "location": "HIGHWAY NH-66",
+      "date": "CHAPTER 01",
+      "icon": "MapPin"
+    },
+    {
+      "id": "st2",
+      "location": "KOCHI AIRPORT (COK)",
+      "date": "CHAPTER 01",
+      "icon": "PlaneTakeoff"
+    },
+    {
+      "id": "st3",
+      "location": "UDAIPUR (UDR)",
+      "date": "CHAPTER 02",
+      "icon": "Compass"
+    },
+    {
+      "id": "st4",
+      "location": "FOREVER GATE",
+      "date": "CHAPTER 03",
+      "icon": "Heart"
+    }
+  ],
+  "boardingPasses": [
+    {
+      "id": "bp1",
+      "passengerName": "Co-Rider / Pillion",
+      "from": "COK (Kochi)",
+      "to": "UDR (Udaipur)",
+      "flightNo": "DUKE-390",
+      "date": "6 SEPT 2023",
+      "seat": "01A & 01B",
+      "gate": "G01"
+    },
+    {
+      "id": "bp2",
+      "passengerName": "Co-Rider / Pillion",
+      "from": "ANYWHERE",
+      "to": "FOREVER",
+      "flightNo": "ALWAYS",
+      "date": "6 SEPT 2026",
+      "seat": "TOGETHER",
+      "gate": "FINAL"
+    }
+  ],
+  "squadPhotos": [
+    {
+      "id": "sp1",
+      "title": "Unplanned Group Road Trip",
+      "date": "College Days",
+      "location": "Western Ghats Scenic Viewpoint",
+      "description": "Piling into bikes and cars at 5 AM with no destination, just good music and the whole squad laughing together.",
+      "image": "./assets/images/squad_photo1.jpg"
+    },
+    {
+      "id": "sp2",
+      "title": "Mountain Rides & Misty Peaks",
+      "date": "Weekend Getaways",
+      "location": "Misty Mountain Pass",
+      "description": "Heading into the misty mountain curves with the squad, chasing cold winds, viewpoints, and unforgettable memories.",
+      "image": "./assets/images/squad_photo2.jpg"
+    }
+  ],
+  "squadVideos": [
+    {
+      "id": "sv1",
+      "title": "Squad Laughs & Road Trip Reel",
+      "date": "College Travel Reel",
+      "location": "Mountain Pass Highway",
+      "description": "Raw video clip with original audio of the squad cheering on the road.",
+      "videoUrl": "./assets/images/squad_video1.mp4",
+      "fallbackImage": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=1600&q=80"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m1",
+      "title": "First Tea Stop",
+      "date": "CHAPTER 01 // MOTORCYCLE RIDE",
+      "location": "Highland Roadside Stall",
+      "description": "Steaming hot chai in glass cups right beside the cooling Duke 390 exhaust.",
+      "image": "./assets/images/tea_stop.jpg",
+      "videoUrl": "./assets/images/tea_stop.mp4"
+    },
+    {
+      "id": "m2",
+      "title": "Kochi Departures Drop-off",
+      "date": "CHAPTER 01 // AIRPORT DROP-OFF",
+      "location": "Kochi International Airport (COK)",
+      "description": "Two helmets resting together on the fuel tank right before the flight goodbye.",
+      "image": "./assets/images/kochi_airport.jpg",
+      "videoUrl": "./assets/images/kochi_airport.mp4"
+    },
+    {
+      "id": "m3",
+      "title": "Window Seat & Cloud Horizon",
+      "date": "CHAPTER 02 // FLIGHT TO UDAIPUR",
+      "location": "Flight COK ➔ UDR // 35,000 ft",
+      "description": "Clouds rolling past the window seat, counting down days until the next reunion walk.",
+      "image": "./assets/images/flight_window.jpg",
+      "videoUrl": "./assets/images/flight_window.mp4"
+    },
+    {
+      "id": "m4",
+      "title": "Sunset Lakeshore Reunion Walk",
+      "date": "CHAPTER 02 // UDAIPUR REUNION",
+      "location": "Udaipur Lakeshore Viewpoint",
+      "description": "Quiet walks along the water, holding hands as the sun dipped behind the palaces.",
+      "image": "./assets/images/udaipur_walk.jpg",
+      "videoUrl": "./assets/images/udaipur_walk.mp4"
+    },
+    {
+      "id": "m5",
+      "title": "Late Night Screen Calls",
+      "date": "CHAPTER 03 // STILL CHOOSING YOU",
+      "location": "Distance Bridge",
+      "description": "Hours melting away over video calls, proving that distance only made us choose each other more.",
+      "image": "./assets/images/video_call.jpg",
+      "videoUrl": "./assets/images/video_call.mp4"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "chapters": [
+    {
+      "id": "ch1",
+      "number": "Chapter One",
+      "title": "Together",
+      "subtitle": "Where every turn felt like home",
+      "scenes": [
+        {
+          "id": "ch1_s1",
+          "title": "The Open Road",
+          "subtitle": "Mountain curves & motorcycle hums",
+          "content": [
+            "Mountain roads slowly become city roads.",
+            "The Duke 390 leans through every curve as the cold wind cuts across our jackets.",
+            "No maps needed. Just the sound of the engine and the pressure of your hands holding tight."
+          ],
+          "location": "Western Ghats Mountain Pass",
+          "audioKey": "motorcycle_road"
+        },
+        {
+          "id": "ch1_s2",
+          "title": "Kochi Airport Departures",
+          "subtitle": "The sound of engine cutoff",
+          "content": [
+            "Signs begin pointing toward Kochi Airport.",
+            "The bike enters the departures line.",
+            "Engine stops. Helmets removed.",
+            "Silence."
+          ],
+          "location": "Kochi International Airport - Departures",
+          "audioKey": "airport_departures"
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "number": "Chapter Two",
+      "title": "Distance",
+      "subtitle": "When roads turned into runways",
+      "scenes": [
+        {
+          "id": "ch2_s1",
+          "title": "Runway Departure",
+          "subtitle": "Flight Kochi → Udaipur",
+          "content": [
+            "The road becomes a runway.",
+            "The bike disappears. A plane replaces it.",
+            "Looking out the window as the ground shrinks away, holding on to every word spoken before boarding."
+          ],
+          "location": "Airborne // 35,000 ft",
+          "audioKey": "flight_cabin"
+        },
+        {
+          "id": "ch2_s2",
+          "title": "Reunion Walks",
+          "subtitle": "Stealing moments across cities",
+          "content": [
+            "Quiet walks, shared coffee, and counting down the hours before the next flight back.",
+            "Flights were no longer just vacations. They had become our lifelines."
+          ],
+          "location": "Udaipur Lakeshore",
+          "audioKey": "ambient_piano"
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "number": "Chapter Three",
+      "title": "Still Choosing You",
+      "subtitle": "Every single day",
+      "scenes": [
+        {
+          "id": "ch3_s1",
+          "title": "Midnight Lifelines",
+          "subtitle": "Screen glows & late night calls",
+          "content": [
+            "Distance exists. Thousands of kilometres.",
+            "Airports now feel familiar, almost like second homes.",
+            "Yet through late-night calls, inside jokes, and daily traditions...",
+            "Choice remains."
+          ],
+          "location": "Across the Distance",
+          "audioKey": "ambient_piano"
+        }
+      ]
+    }
+  ]
+}

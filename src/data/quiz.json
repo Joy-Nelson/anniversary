@@ -1,0 +1,175 @@
+{
+  "title": "DUKE 390 MEMORY SYSTEM",
+  "subtitle": "PASSENGER VERIFICATION REQUIRED",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "PARAMETER 01 // FIRST ADVENTURE",
+      "prompt": "Select the primary memory checksum of our first ride together:",
+      "options": [
+        {
+          "id": "q1_a",
+          "text": "Winding mountain roads with the cold wind",
+          "isCorrect": true,
+          "playfulResponse": "Memory restored... Engine RPM synchronized!",
+          "ecuLog": "[ECU LOG 0x01]: Checksum matched. Throttle response optimal."
+        },
+        {
+          "id": "q1_b",
+          "text": "Traffic jam near the city mall",
+          "isCorrect": false,
+          "playfulResponse": "Memory mismatch detected... Searching nearby memories...",
+          "ecuLog": "[ECU WARNING]: ECU indicates zero romance in traffic jams!"
+        },
+        {
+          "id": "q1_c",
+          "text": "Rain ride without raincoats",
+          "isCorrect": false,
+          "playfulResponse": "Consulting the Duke's ECU... Wet memory restored!",
+          "ecuLog": "[ECU LOG 0x02]: High moisture detected, but cozy vibes confirmed."
+        }
+      ],
+      "hint": "Think of winding roads where mountain air meets the Duke's exhaust."
+    },
+    {
+      "id": "q2",
+      "title": "PARAMETER 02 // TEA STOP PROTOCOL",
+      "prompt": "Where is the designated high-priority refueling stop?",
+      "options": [
+        {
+          "id": "q2_a",
+          "text": "Highway roadside tea stall under the tree",
+          "isCorrect": true,
+          "playfulResponse": "Hot chai & warm smiles verified!",
+          "ecuLog": "[ECU LOG 0x03]: Fuel tank full. Tea level 100%."
+        },
+        {
+          "id": "q2_b",
+          "text": "Fancy five-star coffee shop",
+          "isCorrect": false,
+          "playfulResponse": "Nope. Different tea stop. Duke prefers roadside chai!",
+          "ecuLog": "[ECU WARNING]: Overpriced latte detected. Recalibrating to local tea."
+        },
+        {
+          "id": "q2_c",
+          "text": "Fuel station vending machine",
+          "isCorrect": false,
+          "playfulResponse": "Vending machine tea? Passenger confidence: Questionable!",
+          "ecuLog": "[ECU LOG 0x04]: Machine tea rejected by passenger palate."
+        }
+      ],
+      "hint": "Steaming hot tea served in glass cups right beside the parked motorcycle."
+    },
+    {
+      "id": "q3",
+      "title": "PARAMETER 03 // FAMILIAR PHRASE",
+      "prompt": "What’s the phrase I’ve heard you say a thousand times?",
+      "options": [
+        {
+          "id": "q3_a",
+          "text": "Nammal onnum parayuniladei, vaa pothiyekadei 🤭",
+          "isCorrect": true,
+          "playfulResponse": "Classic phrase verified! Heard it a thousand times ❤️",
+          "ecuLog": "[ECU LOG 0x05]: Phrase recognized with 100% accuracy."
+        },
+        {
+          "id": "q3_b",
+          "text": "Evdeyarnu njn vilichapo 😤",
+          "isCorrect": false,
+          "playfulResponse": "Ooh, scary! But not the main phrase 🤭",
+          "ecuLog": "[ECU WARNING]: High tone detected. Recalibrating..."
+        },
+        {
+          "id": "q3_c",
+          "text": "Kuttaaa ❤️",
+          "isCorrect": false,
+          "playfulResponse": "Sweet & cute, but try again!",
+          "ecuLog": "[ECU LOG]: Sweetness overload detected."
+        },
+        {
+          "id": "q3_d",
+          "text": "Areeee, kuch bhi 😂",
+          "isCorrect": false,
+          "playfulResponse": "Haha, heard this one a lot too! But check OP1 🤭",
+          "ecuLog": "[ECU LOG]: Laughter index peak."
+        }
+      ],
+      "hint": "Think of the iconic line about wrapping it up and walking away!"
+    },
+    {
+      "id": "q4",
+      "title": "PARAMETER 04 // FAVOURITE FLAVOUR",
+      "prompt": "Which flavour could you never say no to? 🍫🍓🍍🥭",
+      "options": [
+        {
+          "id": "q4_a",
+          "text": "Mango 🥭",
+          "isCorrect": true,
+          "playfulResponse": "Mango for the win! Flavour verified 🥭❤️",
+          "ecuLog": "[ECU LOG 0x06]: Irresistible mango flavour confirmed."
+        },
+        {
+          "id": "q4_b",
+          "text": "Pineapple 🍍",
+          "isCorrect": false,
+          "playfulResponse": "Tangy pineapple, but guess again!",
+          "ecuLog": "[ECU LOG]: Tropical flavour detected."
+        },
+        {
+          "id": "q4_c",
+          "text": "Strawberry 🍓",
+          "isCorrect": false,
+          "playfulResponse": "Fresh strawberry, but mango still wins!",
+          "ecuLog": "[ECU LOG]: Berry note registered."
+        },
+        {
+          "id": "q4_d",
+          "text": "Chocolate 🍫",
+          "isCorrect": false,
+          "playfulResponse": "Yummy chocolate, but mango is the ultimate favourite!",
+          "ecuLog": "[ECU LOG]: Chocolate note logged."
+        }
+      ],
+      "hint": "Golden, sweet, and tropical!"
+    },
+    {
+      "id": "q5",
+      "title": "PARAMETER 05 // PERMANENT SEAT",
+      "prompt": "Final system diagnostic: Who holds the permanent seat?",
+      "type": "textInput",
+      "placeholder": "Enter passenger name...",
+      "acceptedAnswers": ["rohini", "me"],
+      "playfulResponse": "Passenger Verified! Still my favourite co-rider ❤️",
+      "options": [
+        {
+          "id": "q5_a",
+          "text": "Permanent Co-Rider",
+          "isCorrect": true,
+          "playfulResponse": "Passenger Verified! Still my favourite co-rider ❤️",
+          "ecuLog": "[ECU LOG 0x07]: Memory System Unlocked. Verification Granted."
+        }
+      ],
+      "hint": "Think of who holds the permanent seat on the ride..."
+    }
+  ],
+  "achievements": [
+    {
+      "id": "perfect_memory",
+      "title": "Human Memory Card",
+      "description": "Passed ECU passenger verification on the first attempt!",
+      "iconName": "Cpu"
+    },
+    {
+      "id": "scenic_route",
+      "title": "Took the Scenic Route ❤️",
+      "description": "Explored all alternate ECU detour paths and playful responses.",
+      "iconName": "Compass"
+    },
+    {
+      "id": "memory_inventor",
+      "title": "Professional Memory Inventor",
+      "description": "Tested the Duke's ECU patience with creative wrong answers!",
+      "iconName": "Sparkles"
+    }
+  ]
+}

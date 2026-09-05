@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-dark: #080808;
+    --ktm-orange: #FF6600;
+    --gold: #D4AF37;
+    --glass: rgba(255, 255, 255, 0.08);
+  }
+
+  body {
+    background-color: var(--bg-dark);
+    font-family: 'Poppins', sans-serif;
+    color: #BDBDBD;
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Cinzel', serif;
+  }
+
+  .font-emotional {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #080808;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #222222;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FF6600;
+}
+
+/* Glassmorphism utility */
+.glass-panel {
+  background: rgba(18, 18, 18, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+.glass-panel-orange {
+  background: rgba(255, 102, 0, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 102, 0, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(255, 102, 0, 0.15);
+}
+
+.glass-panel-gold {
+  background: rgba(212, 175, 55, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(212, 175, 55, 0.15);
+}
+
+/* ECU Dashboard Digital Font Simulation */
+.font-digital {
+  font-family: monospace;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 10px rgba(255, 102, 0, 0.8);
+}

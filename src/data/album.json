@@ -1,0 +1,159 @@
+{
+  "title": "Our Little Book of Memories ❤️",
+  "subtitle": "A few moments from our journey together…",
+  "finalHeartfeltMessage": {
+    "title": "To My Forever Favorite Person ❤️",
+    "paragraphs": [
+      "Every single moment spent with you has been a blessing. From late night talks to spontaneous adventures, you make every day feel like magic.",
+      "Thank you for being my strength, my joy, and my best friend. Looking forward to filling a hundred more scrapbooks with you!",
+      "Forever and always yours 💕"
+    ]
+  },
+  "spreads": [
+    {
+      "id": 1,
+      "spreadTitle": "Where It All Started",
+      "tagline": "Spread 01",
+      "date": "First Chapter",
+      "leftPage": {
+        "photo": {
+          "id": "photo_1",
+          "url": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo1.jpg",
+          "caption": "The first smile that changed everything ✨",
+          "date": "Day 1",
+          "location": "Our Starting Point"
+        },
+        "note": "Remember when we first talked for hours without realizing how fast time was flying?",
+        "sticker": "✨ Beginning"
+      },
+      "rightPage": {
+        "photo": {
+          "id": "photo_2",
+          "url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo2.jpg",
+          "caption": "Unplanned moments turn into forever memories.",
+          "date": "Early Days",
+          "location": "First Coffee Spot"
+        },
+        "note": "That awkward first photo together that turned into my absolute favorite.",
+        "sticker": "☕ Favorite Day"
+      }
+    },
+    {
+      "id": 2,
+      "spreadTitle": "Little Adventures",
+      "tagline": "Spread 02",
+      "date": "Roads & Rides",
+      "leftPage": {
+        "photo": {
+          "id": "photo_3",
+          "url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo3.jpg",
+          "caption": "Long rides, cool wind, and endless laughter 🏍️💨",
+          "date": "Weekend Escapes",
+          "location": "Highways & Hills"
+        },
+        "note": "No fixed direction, just holding on tight and riding towards the sunset.",
+        "sticker": "🏍️ On The Road"
+      },
+      "rightPage": {
+        "photo": {
+          "id": "photo_4",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo4.jpg",
+          "caption": "Sunset hues and ocean waves with you 🌊🌅",
+          "date": "Golden Hour",
+          "location": "Coastal Breeze"
+        },
+        "note": "The sea was beautiful, but I couldn't stop looking at you.",
+        "sticker": "🌅 Sunsets"
+      }
+    },
+    {
+      "id": 3,
+      "spreadTitle": "Just Us",
+      "tagline": "Spread 03",
+      "date": "Cozy Moments",
+      "leftPage": {
+        "photo": {
+          "id": "photo_5",
+          "url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo5.jpg",
+          "caption": "Quiet moments, warm tea, and sweet silence ❤️",
+          "date": "Rainy Evenings",
+          "location": "Our Cozy Corner"
+        },
+        "note": "We don't even need words when we're together. Just existing in the same room is happiness.",
+        "sticker": "💖 Cozy Vibes"
+      },
+      "rightPage": {
+        "photo": {
+          "id": "photo_6",
+          "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo6.jpg",
+          "caption": "Silently matching smiles and endless inside jokes 😂",
+          "date": "Random Afternoon",
+          "location": "Everyday Magic"
+        },
+        "note": "Nobody else gets our weird jokes, and that's our favorite secret.",
+        "sticker": "💫 Inside Jokes"
+      }
+    },
+    {
+      "id": 4,
+      "spreadTitle": "The Memories We Keep",
+      "tagline": "Spread 04",
+      "date": "Milestones",
+      "leftPage": {
+        "photo": {
+          "id": "photo_7",
+          "url": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo7.jpg",
+          "caption": "Celebrating us, one milestone at a time 🥂🎉",
+          "date": "Anniversary Night",
+          "location": "Candlelight Dinner"
+        },
+        "note": "Looking back, every challenge only brought us closer together.",
+        "sticker": "🥂 Cheers!"
+      },
+      "rightPage": {
+        "photo": {
+          "id": "photo_8",
+          "url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo8.jpg",
+          "caption": "“In all the world, there is no heart for me like yours.”",
+          "date": "Timeless",
+          "location": "Under The Stars"
+        },
+        "note": "Maya Angelou had it right. Your heart is my home.",
+        "sticker": "⭐ Starry Night"
+      }
+    },
+    {
+      "id": 5,
+      "spreadTitle": "To Be Continued…",
+      "tagline": "Final Spread",
+      "date": "Forever Ahead",
+      "leftPage": {
+        "photo": {
+          "id": "photo_9",
+          "url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+          "localPath": "/assets/images/album_photo9.jpg",
+          "caption": "Our favorite picture of us taking on the world 🌍❤️",
+          "date": "Today & Tomorrow",
+          "location": "Next Destination"
+        },
+        "note": "This isn't the end of our story. It's just another beautiful page. ❤️",
+        "sticker": "🚀 Future Together"
+      },
+      "rightPage": {
+        "isFinalCallout": true,
+        "calloutTitle": "This isn't the end of our story.",
+        "calloutSubtitle": "It's just another beautiful page. ❤️",
+        "quote": "The best is yet to come, hand in hand, step by step.",
+        "actionButtonText": "Read one last thing ❤️"
+      }
+    }
+  ]
+}

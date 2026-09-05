@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+dist-ssr/
+
+# IDE & OS files
+.DS_Store
+*.local
+.vscode/
+.idea/
